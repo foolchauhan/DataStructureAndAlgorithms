@@ -8,4 +8,4 @@ def canConstruct(ransomNote, magazine):
 ransomNote = "fffbfg"
 magazine = "effjfggbffjdgbjjhhdegh"
 
-print(canConstruct(ransomNote, magazine))
+print(canConstruct(ransomNote, magazine)
