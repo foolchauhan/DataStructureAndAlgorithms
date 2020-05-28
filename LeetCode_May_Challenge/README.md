@@ -34,7 +34,7 @@ Day 24 : [Construct Binary Search Tree from Preorder Traversal](https://leetcode
 Day 25 : [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) <br>
 Day 26 : [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) <br>
 Day 27 : [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) <br>
-Day 28 : []() <br>
+Day 28 : [Counting Bits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) <br>
 
 ## Week 5
 Day 29 : []() <br>
