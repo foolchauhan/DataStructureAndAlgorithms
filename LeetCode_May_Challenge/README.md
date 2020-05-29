@@ -37,6 +37,6 @@ Day 27 : [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-
 Day 28 : [Counting Bits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) <br>
 
 ## Week 5
-Day 29 : []() <br>
+Day 29 : [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) <br>
 Day 30 : []() <br>
 Day 31 : []() <br>
