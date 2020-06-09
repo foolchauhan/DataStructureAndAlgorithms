@@ -11,7 +11,7 @@ Day 7 : [Coin Change 2](https://leetcode.com/explore/challenge/card/june-leetcod
 
 ## Week 2
 Day 8 : [Power of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/)<br>
-Day 9 : []()<br>
+Day 9 : [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/)<br>
 Day 10 : []()<br>
 Day 11 : []()<br>
 Day 12 : []()<br>
